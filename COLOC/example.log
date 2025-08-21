@@ -1,0 +1,28 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --bfile D:/Rworkplace/Database/Ref_Panel/g1000_eur/g1000_eur
+  --extract D:/Rworkplace/Example/COLOC/snplist.txt
+  --ld-window 99999
+  --ld-window-kb 3000
+  --ld-window-r2 0
+  --out D:/Rworkplace/Example/COLOC/example
+  --r
+
+Hostname: CWANG
+Working directory: D:\Rworkplace\Example\COLOC
+Start time: Wed Jul 05 20:13:17 2023
+
+Random number seed: 1688559197
+28356 MB RAM detected; reserving 14178 MB for main workspace.
+22665064 variants loaded from .bim file.
+503 people (240 males, 263 females) loaded from .fam.
+--extract: 1124 variants remaining.
+Using up to 15 threads (change this with --threads).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is in [0.9999995, 1).
+1124 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--r to D:/Rworkplace/Example/COLOC/example.ld ... done.
+
+End time: Wed Jul 05 20:13:24 2023

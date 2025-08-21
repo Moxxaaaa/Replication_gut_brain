@@ -1,0 +1,14 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --bfile D:/Rworkplace/Database/Ref_Panel/g1000_eur/g1000_eur
+  --extract D:/Rworkplace/Example/COLOC/snplist.txt
+  --make-bed extracted_data
+
+Hostname: CWANG
+Working directory: D:\Rworkplace\Example\COLOC
+Start time: Mon Jul 03 21:19:52 2023
+
+Error: --make-bed doesn't accept parameters.  (Did you forget '--out'?)
+For more information, try "plink --help <flag name>" or "plink --help | more".
+
+End time: Mon Jul 03 21:19:52 2023
